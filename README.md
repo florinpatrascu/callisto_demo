@@ -1,6 +1,6 @@
 # Callisto Neo4j.Sips Demo
 
-A simple demo using Callisto and the Neo4j.Sips **adapter**.
+A simple demo using [Callisto](https://github.com/CollabRx/callisto) and the Neo4j.Sips **adapter**.
 
 *Note: this code is for demo purposes and it is using libraries currently in development, please check the `mix.exs` for details!*
 
